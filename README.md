@@ -1,2 +1,3 @@
 # git-test
-this is the first assignment in The Odin Project!
+Hello Odin!
+This is the first assignment in The Odin Project!

@@ -1,0 +1,2 @@
+This is some text for the "hello_world" file!
+I hope I can keep up with the odin project and continue my programming journey!
